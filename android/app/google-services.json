@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "713606458879",
+    "project_id": "chatappfinal-1a4d4",
+    "storage_bucket": "chatappfinal-1a4d4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:713606458879:android:20c874d39eb112d30a4bca",
+        "android_client_info": {
+          "package_name": "com.hamed.chatappnew"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "713606458879-14b3dkf6purm549midilsfaa4b3iopg4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD63L-XKVjj4n0ZPyJGlcOktdmwo2Bp7tw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "713606458879-14b3dkf6purm549midilsfaa4b3iopg4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
